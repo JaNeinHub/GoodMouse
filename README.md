@@ -69,6 +69,8 @@ Quit a running GoodMouse before you replace or rebuild it. An app that holds an 
 
 ## Credits
 
+GoodMouse was developed with [Claude](https://claude.com/claude-code) (Anthropic's AI assistant), which wrote most of the code.
+
 The navigation swipe for the back/forward buttons and the list of apps that need it follow [LinearMouse](https://github.com/linearmouse/linearmouse) (MIT license). Reaching windows on hidden desktops follows [AltTab](https://github.com/lwouis/alt-tab-macos) (GPL-3.0).
 
 ## License
